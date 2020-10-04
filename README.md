@@ -2,7 +2,7 @@ Revisions of stories in current iteration
 =========================
 
 ## Overview
-![](pic.png)
+see Original at [site.](https://github.com/nmusaelian-rally/revisions)
 
 This app is available as is. It is not supported by Rally.
 ## License
