@@ -2,7 +2,7 @@ Revisions of stories in current iteration
 =========================
 
 ## Overview
-see Original at [site.](https://github.com/nmusaelian-rally/revisions)
+see Original at created by Nik Musaelian (nmusaelian-rally) [here.](https://github.com/nmusaelian-rally/revisions)
 
 This app is available as is. It is not supported by Rally.
 ## License
